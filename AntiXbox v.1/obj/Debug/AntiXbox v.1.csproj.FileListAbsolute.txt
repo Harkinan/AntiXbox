@@ -1,0 +1,9 @@
+C:\Users\audit\source\repos\AntiXbox v.1\AntiXbox v.1\bin\Debug\AntiXbox v.1.exe.config
+C:\Users\audit\source\repos\AntiXbox v.1\AntiXbox v.1\bin\Debug\AntiXbox v.1.exe
+C:\Users\audit\source\repos\AntiXbox v.1\AntiXbox v.1\bin\Debug\AntiXbox v.1.pdb
+C:\Users\audit\source\repos\AntiXbox v.1\AntiXbox v.1\obj\Debug\AntiXbox v.1.csprojAssemblyReference.cache
+C:\Users\audit\source\repos\AntiXbox v.1\AntiXbox v.1\obj\Debug\AntiXbox_v._1.Form1.resources
+C:\Users\audit\source\repos\AntiXbox v.1\AntiXbox v.1\obj\Debug\AntiXbox_v._1.Properties.Resources.resources
+C:\Users\audit\source\repos\AntiXbox v.1\AntiXbox v.1\obj\Debug\AntiXbox v.1.csproj.GenerateResource.cache
+C:\Users\audit\source\repos\AntiXbox v.1\AntiXbox v.1\obj\Debug\AntiXbox v.1.exe
+C:\Users\audit\source\repos\AntiXbox v.1\AntiXbox v.1\obj\Debug\AntiXbox v.1.pdb
